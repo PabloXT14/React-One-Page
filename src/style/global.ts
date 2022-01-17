@@ -22,7 +22,7 @@ export const GlobalStyle = createGlobalStyle`
 
     body {
         font-family: 'Merriweather';
-        background: var(--purple);
+        /* background: var(--purple-light); */
         height: 100vh;
     }
 
