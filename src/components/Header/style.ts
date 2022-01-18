@@ -1,7 +1,7 @@
 import styled from 'styled-components';
 
 export const Container = styled.header`
-    padding: 100px;
+    padding: 10rem;//100px
     display: flex;
     justify-content: space-between;
     align-items: center;
@@ -12,10 +12,14 @@ export const Container = styled.header`
         max-width: 35%;
         display: flex;
         flex-direction: column;
+
+        h1 {
+
+        }
     }
 
     img {
-        width: 400px;
+        max-width: 500px;
     }
 
 `
