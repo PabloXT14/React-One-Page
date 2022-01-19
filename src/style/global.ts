@@ -35,4 +35,15 @@ export const GlobalStyle = createGlobalStyle`
         height: 100vh;
     }
 
+    h1, h2, h3 {
+        font-family: 'Merriweather', serif;
+    }
+
+    p, span {
+        font-family: 'Lato', sans-serif;
+    }
+
+    button {
+        cursor: pointer;
+    }
 `
