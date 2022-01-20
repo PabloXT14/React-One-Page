@@ -1,12 +1,15 @@
 import { GlobalStyle } from './style/global';
-import ImageHeader from './assets/image-header.svg';
 import { Header } from './components/Header';
+import { Main } from './components/Main';
+import { Contact } from './components/Contact';
 
 function App() {
   return (
     <>
       <GlobalStyle />
       <Header />
+      <Main />
+      <Contact />
     </>
   );
 }

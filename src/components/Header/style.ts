@@ -32,16 +32,20 @@ export const Container = styled.header`
             border-radius: 5px;
             background: var(--purple);
 
-            font-size: 1.25rem;
-            text-transform: capitalize;
-            color: #FFF;
-
             box-shadow: 0px 5px 5px rgba(23, 23, 23, 0.1);
             transition: all .2s linear;
 
             &:hover {
                 transform: scale(1.07);
                 letter-spacing: 0.3rem;
+            }
+
+            a {
+                font-size: 1.25rem;
+                font-weight: 700;
+                text-transform: capitalize;
+                text-decoration: none;
+                color: #FFF;
             }
         }
     }
@@ -51,13 +55,13 @@ export const Container = styled.header`
     }
 
     // RESPONSIVIDADE
-    @media (max-width: 1000px) {
+    @media (max-width: 900px) {
         & {
             flex-direction: column;
             align-items: stretch;
-            justify-content: stretch;
-            gap: 5rem;
-            padding: 50px 1.5rem;
+            justify-content: space-between;
+            /* gap: 5rem; */
+            padding: 3rem 1.5rem 5.6rem;
 
             .apresentation {
                 max-width: 100%;
@@ -65,6 +69,7 @@ export const Container = styled.header`
 
             img {
                 align-self: center;
+                width: 100%;
             }
         }
     }

@@ -8,7 +8,9 @@ export function Header() {
             <div className="apresentation">
                 <h1>Lorem ipsum dolor sit amet</h1>
                 <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Maecenas eu massa sit amet augue consectetur ullamcorper non ac massa.</p>
-                <button>botão</button>
+                <button>
+                    <a href="#">botão</a>
+                </button>
             </div>
             <img src={ImageHeader} alt="Imagem de Passaros" />
         </Container>

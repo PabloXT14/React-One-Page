@@ -24,14 +24,14 @@ export const GlobalStyle = createGlobalStyle`
         @media (max-width: 720px) {
             font-size: 87.5%;//14px
         }
-        @media (max-width: 360px) {
+        /* @media (max-width: 360px) {
             font-size: 81.25%;//13px
-        }
+        } */
     }
 
     body {
         font-family: 'Merriweather';
-        /* background: var(--purple-light); */
+        background: var(--white-200);
         height: 100vh;
     }
 
