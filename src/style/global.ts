@@ -27,6 +27,7 @@ export const GlobalStyle = createGlobalStyle`
         /* @media (max-width: 360px) {
             font-size: 81.25%;//13px
         } */
+        scroll-behavior: smooth;
     }
 
     body {

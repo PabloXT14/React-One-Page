@@ -19,7 +19,7 @@ export function Contact() {
 
 
     return (
-        <Container>
+        <Container id="contact">
             <h2>Entrar em Contato</h2>
             <form
                 onSubmit={handleForm}
