@@ -3,7 +3,7 @@ import { Container } from "./style";
 
 const FormsubDatas = {
     email: 'pabloxt14@gmail.com',
-    redirectPage: 'http://localhost:3000/message'
+    redirectPage: 'https://react-one-page.vercel.app/message'
 }
 
 export function Contact() {
