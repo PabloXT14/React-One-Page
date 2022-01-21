@@ -4,32 +4,32 @@ import { Container } from "./style";
 const ALL_CARDS = [
     {
         imageBackground: "#FF6363",
-        title: "Title Card",
+        title: "Título do Card",
         description: "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vestibulum in neque et nisl."
     },
     {
         imageBackground: "#63ECFF",
-        title: "Title Card",
+        title: "Título do Card",
         description: "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vestibulum in neque et nisl."
     },
     {
         imageBackground: "#F363FF",
-        title: "Title Card",
+        title: "Título do Card",
         description: "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vestibulum in neque et nisl."
     },
     {
         imageBackground: "#63FF73",
-        title: "Title Card",
+        title: "Título do Card",
         description: "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vestibulum in neque et nisl."
     },
     {
         imageBackground: "#FFDD63",
-        title: "Title Card",
+        title: "Título do Card",
         description: "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vestibulum in neque et nisl."
     },
     {
         imageBackground: "#6663FF",
-        title: "Title Card",
+        title: "Título do Card",
         description: "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vestibulum in neque et nisl."
     }
 
