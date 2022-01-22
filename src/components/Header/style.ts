@@ -41,6 +41,11 @@ export const Container = styled.header`
             }
 
             a {
+                display: flex;
+                justify-content: center;
+                align-items: center;
+                width: 100%;
+                height: 100%;
                 font-size: 1.25rem;
                 font-weight: 700;
                 text-transform: capitalize;
