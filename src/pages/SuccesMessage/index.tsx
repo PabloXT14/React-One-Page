@@ -6,7 +6,7 @@ export function SuccessMessage() {
         <Container>
             <div className="message">
                 <p>
-                    Mensagem enviado com sucesso👍
+                    Mensagem enviada com sucesso👍
                     <br />
                     <br />
                     Volte para a página principal com o botão abaixo
