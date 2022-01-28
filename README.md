@@ -7,11 +7,14 @@ Além deste projeto ter sido feito como conclusão de um desafio da Comunidade [
 Caso goste do projeto marque a estrelinha⭐ para me ajudar 👍
 
 ## 📷 Demonstration
+### 💻FullPage
 <p align="center">
     <img alt="Pagina na Web" title="Pagina na Web" src="./github/Dem01-React-One-Page-Web.gif" height="425" />
-    ---
     <img alt="Formulario da Página" title="Formulario da Página" src="./github/Dem02-React-One-Page-Form.gif" height="425" />
-    ---
+</p>
+
+### 📱Mobile
+<p align="center">
     <img alt="Pagina Responsiva" title="Pagina Responsiva" src="./github/Dem03-React-One-Page-Responsividade.gif" height="425" />
 </p>
 
